@@ -1,0 +1,7 @@
+# pandas
+pycaret[regression]
+
+fastapi
+uvicorn[standard]
+
+python-multipart
